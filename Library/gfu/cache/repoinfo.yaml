@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-03-30T11:06:28.002+01:00
+  lastUpdatedAtString: 2021-03-30T11:22:52.326+01:00
   initializedAtString: 2021-03-30T11:06:28.002+01:00
   currentGitRemote:
     name: GameDesign-CA2
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: GameDesign-CA2/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: GameDesign-CA2
+      url: https://github.com/Gkemper1989/GameDesignAssignment2.git
+    trackingBranch: master
   currentConfigRemote:
     name: GameDesign-CA2
     url: https://github.com/Gkemper1989/GameDesignAssignment2.git
