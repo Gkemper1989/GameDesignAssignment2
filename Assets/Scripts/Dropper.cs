@@ -16,7 +16,6 @@ public class Dropper : MonoBehaviour
 
         rigidBody = GetComponent<Rigidbody>();
         rigidBody.useGravity = false;
-              
     }
 
     // Update is called once per frame

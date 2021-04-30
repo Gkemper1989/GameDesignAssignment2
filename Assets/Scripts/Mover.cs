@@ -4,25 +4,17 @@ using UnityEngine;
 
 public class Mover : MonoBehaviour
 {
+    //parameters
     [SerializeField] float moveSpeed = 10f;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        PrintInstructions();
-    }
+    //cache
+    private Rigidbody playerRB;
 
     // Update is called once per frame
     void Update()
     {
+        playerRB = GetComponent<Rigidbody>();
         MovePlayer();
-    }
-
-    void PrintInstructions()
-    {
-        Debug.Log("Run Rat, Run!");
-        Debug.Log("Use the arrow keys to move the player and dont hit the walls!");
-        Debug.Log("If you choose, you can use the AWSD keys instead the arrow keys");
     }
 
     void MovePlayer()

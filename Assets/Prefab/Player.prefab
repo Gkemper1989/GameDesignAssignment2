@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5907992297616538568}
   - component: {fileID: 5907992297616538564}
   - component: {fileID: 5907992297616538567}
-  - component: {fileID: 5907992297616538566}
+  - component: {fileID: 5341738346745929380}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -108,7 +108,7 @@ Rigidbody:
   serializedVersion: 2
   m_Mass: 1
   m_Drag: 0
-  m_AngularDrag: 0.05
+  m_AngularDrag: 0
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
@@ -127,7 +127,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
---- !u!114 &5907992297616538566
+--- !u!114 &5341738346745929380
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -136,6 +136,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5907992297616538569}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 32bea32bd70ea904ca2df85ea98cba4e, type: 3}
+  m_Script: {fileID: 11500000, guid: df6ea2edeef74bb4a81f04966996737e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  levelLoadDelay: 1
