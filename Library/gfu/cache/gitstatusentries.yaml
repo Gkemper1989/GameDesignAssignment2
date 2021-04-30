@@ -13,12 +13,787 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-04-23T09:34:12.921+01:00
-  initializedAtString: 2021-04-23T09:31:59.572+01:00
+  lastUpdatedAtString: 2021-04-30T18:36:03.200+01:00
+  initializedAtString: 2021-04-30T16:36:04.909+01:00
   entries:
-  - path: Library\Artifacts\c8\c8ab31b584f6a9ecc0d93ee5e83dfe99
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\Artifacts\c8\c8ab31b584f6a9ecc0d93ee5e83dfe99
-    projectPath: Library\Artifacts\c8\c8ab31b584f6a9ecc0d93ee5e83dfe99
+  - path: .vs\Run Rat Run\v16\.suo
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\.vs\Run
+      Rat Run\v16\.suo
+    projectPath: .vs\Run Rat Run\v16\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\AddOns.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\AddOns.meta
+    projectPath: Assets\AddOns.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AddOns\Mg3D_Food.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\AddOns\Mg3D_Food.meta
+    projectPath: Assets\AddOns\Mg3D_Food.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AddOns\Mg3D_Food\Cheese.fbx
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\AddOns\Mg3D_Food\Cheese.fbx
+    projectPath: Assets\AddOns\Mg3D_Food\Cheese.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AddOns\Mg3D_Food\Cheese.fbx.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\AddOns\Mg3D_Food\Cheese.fbx.meta
+    projectPath: Assets\AddOns\Mg3D_Food\Cheese.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AddOns\Mg3D_Food\Olive.fbx
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\AddOns\Mg3D_Food\Olive.fbx
+    projectPath: Assets\AddOns\Mg3D_Food\Olive.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AddOns\Mg3D_Food\Olive.fbx.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\AddOns\Mg3D_Food\Olive.fbx.meta
+    projectPath: Assets\AddOns\Mg3D_Food\Olive.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Architecture textures pack.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Architecture
+      textures pack.meta
+    projectPath: Assets\Architecture textures pack.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Architecture textures pack\Bricks red rough.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Architecture
+      textures pack\Bricks red rough.meta
+    projectPath: Assets\Architecture textures pack\Bricks red rough.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Architecture textures pack\Bricks red rough\Bricks red rough diffuse.tga
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Architecture
+      textures pack\Bricks red rough\Bricks red rough diffuse.tga
+    projectPath: Assets\Architecture textures pack\Bricks red rough\Bricks red rough
+      diffuse.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Architecture textures pack\Bricks red rough\Bricks red rough diffuse.tga.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Architecture
+      textures pack\Bricks red rough\Bricks red rough diffuse.tga.meta
+    projectPath: Assets\Architecture textures pack\Bricks red rough\Bricks red rough
+      diffuse.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Architecture textures pack\Bricks red rough\Bricks red rough Mat.mat
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Architecture
+      textures pack\Bricks red rough\Bricks red rough Mat.mat
+    projectPath: Assets\Architecture textures pack\Bricks red rough\Bricks red rough
+      Mat.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Architecture textures pack\Bricks red rough\Bricks red rough Mat.mat.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Architecture
+      textures pack\Bricks red rough\Bricks red rough Mat.mat.meta
+    projectPath: Assets\Architecture textures pack\Bricks red rough\Bricks red rough
+      Mat.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Architecture textures pack\Bricks red rough\Bricks red rough normal.tga
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Architecture
+      textures pack\Bricks red rough\Bricks red rough normal.tga
+    projectPath: Assets\Architecture textures pack\Bricks red rough\Bricks red rough
+      normal.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Architecture textures pack\Bricks red rough\Bricks red rough normal.tga.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Architecture
+      textures pack\Bricks red rough\Bricks red rough normal.tga.meta
+    projectPath: Assets\Architecture textures pack\Bricks red rough\Bricks red rough
+      normal.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Architecture textures pack\Bricks red rough\Materials.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Architecture
+      textures pack\Bricks red rough\Materials.meta
+    projectPath: Assets\Architecture textures pack\Bricks red rough\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Architecture textures pack\Bricks red rough\Materials\Bricks red
+      rough diffuse.mat
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Architecture
+      textures pack\Bricks red rough\Materials\Bricks red rough diffuse.mat
+    projectPath: Assets\Architecture textures pack\Bricks red rough\Materials\Bricks
+      red rough diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Architecture textures pack\Bricks red rough\Materials\Bricks red
+      rough diffuse.mat.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Architecture
+      textures pack\Bricks red rough\Materials\Bricks red rough diffuse.mat.meta
+    projectPath: Assets\Architecture textures pack\Bricks red rough\Materials\Bricks
+      red rough diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Concrete textures pack.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Concrete
+      textures pack.meta
+    projectPath: Assets\Concrete textures pack.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Concrete textures pack\pattern 03.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Concrete
+      textures pack\pattern 03.meta
+    projectPath: Assets\Concrete textures pack\pattern 03.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Concrete textures pack\pattern 03\Concrete pattern 03.mat
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Concrete
+      textures pack\pattern 03\Concrete pattern 03.mat
+    projectPath: Assets\Concrete textures pack\pattern 03\Concrete pattern 03.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Concrete textures pack\pattern 03\Concrete pattern 03.mat.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Concrete
+      textures pack\pattern 03\Concrete pattern 03.mat.meta
+    projectPath: Assets\Concrete textures pack\pattern 03\Concrete pattern 03.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Concrete textures pack\pattern 03\diffuse.tga
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Concrete
+      textures pack\pattern 03\diffuse.tga
+    projectPath: Assets\Concrete textures pack\pattern 03\diffuse.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Concrete textures pack\pattern 03\diffuse.tga.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Concrete
+      textures pack\pattern 03\diffuse.tga.meta
+    projectPath: Assets\Concrete textures pack\pattern 03\diffuse.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Concrete textures pack\pattern 03\normal.tga
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Concrete
+      textures pack\pattern 03\normal.tga
+    projectPath: Assets\Concrete textures pack\pattern 03\normal.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Concrete textures pack\pattern 03\normal.tga.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Concrete
+      textures pack\pattern 03\normal.tga.meta
+    projectPath: Assets\Concrete textures pack\pattern 03\normal.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Concrete textures pack\pattern 03\preview.jpg
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Concrete
+      textures pack\pattern 03\preview.jpg
+    projectPath: Assets\Concrete textures pack\pattern 03\preview.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Concrete textures pack\pattern 03\preview.jpg.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Concrete
+      textures pack\pattern 03\preview.jpg.meta
+    projectPath: Assets\Concrete textures pack\pattern 03\preview.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps.meta
+    projectPath: Assets\DungeonTraps.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap.meta
+    projectPath: Assets\DungeonTraps\Trap.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Hammer.FBX
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Hammer.FBX
+    projectPath: Assets\DungeonTraps\Trap\Hammer.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Hammer.FBX.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Hammer.FBX.meta
+    projectPath: Assets\DungeonTraps\Trap\Hammer.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials.meta
+    projectPath: Assets\DungeonTraps\Trap\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Materials.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Materials.meta
+    projectPath: Assets\DungeonTraps\Trap\Materials\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Materials\Tex_DungeonTrap.mat
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Materials\Tex_DungeonTrap.mat
+    projectPath: Assets\DungeonTraps\Trap\Materials\Materials\Tex_DungeonTrap.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Materials\Tex_DungeonTrap.mat.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Materials\Tex_DungeonTrap.mat.meta
+    projectPath: Assets\DungeonTraps\Trap\Materials\Materials\Tex_DungeonTrap.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap01.mat
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap01.mat
+    projectPath: Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap01.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap01.mat.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap01.mat.meta
+    projectPath: Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap01.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap02.mat
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap02.mat
+    projectPath: Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap02.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap02.mat.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap02.mat.meta
+    projectPath: Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap02.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap03.mat
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap03.mat
+    projectPath: Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap03.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap03.mat.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap03.mat.meta
+    projectPath: Assets\DungeonTraps\Trap\Materials\Materials\Tex_Trap03.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_DungeonTrap.mat
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_DungeonTrap.mat
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_DungeonTrap.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_DungeonTrap.mat.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_DungeonTrap.mat.meta
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_DungeonTrap.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_DungeonTrap.png
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_DungeonTrap.png
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_DungeonTrap.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_DungeonTrap.png.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_DungeonTrap.png.meta
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_DungeonTrap.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_Trap01.mat
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_Trap01.mat
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_Trap01.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_Trap01.mat.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_Trap01.mat.meta
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_Trap01.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_Trap01.psd
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_Trap01.psd
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_Trap01.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_Trap01.psd.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_Trap01.psd.meta
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_Trap01.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_Trap02.mat
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_Trap02.mat
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_Trap02.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_Trap02.mat.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_Trap02.mat.meta
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_Trap02.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_Trap02.psd
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_Trap02.psd
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_Trap02.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_Trap02.psd.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_Trap02.psd.meta
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_Trap02.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_Trap03.mat
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_Trap03.mat
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_Trap03.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_Trap03.mat.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_Trap03.mat.meta
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_Trap03.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_Trap03.psd
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_Trap03.psd
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_Trap03.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Materials\Tex_Trap03.psd.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Materials\Tex_Trap03.psd.meta
+    projectPath: Assets\DungeonTraps\Trap\Materials\Tex_Trap03.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_AxeTrap.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_AxeTrap.prefab
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_AxeTrap.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_AxeTrap.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_AxeTrap.prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_AxeTrap.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_BladeTrap.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_BladeTrap.prefab
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_BladeTrap.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_BladeTrap.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_BladeTrap.prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_BladeTrap.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_GreatAxeTrap.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_GreatAxeTrap.prefab
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_GreatAxeTrap.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_GreatAxeTrap.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_GreatAxeTrap.prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_GreatAxeTrap.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_HammerTrap.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_HammerTrap.prefab
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_HammerTrap.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_HammerTrap.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_HammerTrap.prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_HammerTrap.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_SawTrap01.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_SawTrap01.prefab
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_SawTrap01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_SawTrap01.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_SawTrap01.prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_SawTrap01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_SawTrap02.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_SawTrap02.prefab
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_SawTrap02.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_SawTrap02.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_SawTrap02.prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_SawTrap02.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_Shuriken01.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_Shuriken01.prefab
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_Shuriken01.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_Shuriken01.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_Shuriken01.prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_Shuriken01.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_Shuriken02.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_Shuriken02.prefab
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_Shuriken02.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_Shuriken02.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_Shuriken02.prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_Shuriken02.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_SpearTrap.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_SpearTrap.prefab
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_SpearTrap.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_SpearTrap.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_SpearTrap.prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_SpearTrap.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_SpoonTrap.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_SpoonTrap.prefab
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_SpoonTrap.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_SpoonTrap.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_SpoonTrap.prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_SpoonTrap.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_Stone.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_Stone.prefab
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_Stone.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_Stone.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_Stone.prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_Stone.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Cutter.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Cutter.prefab
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Cutter.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Cutter.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Cutter.prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Cutter.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Fire.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Fire.prefab
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Fire.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Fire.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Fire.prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Fire.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Needle.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Needle.prefab
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Needle.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Needle.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Needle.prefab.meta
+    projectPath: Assets\DungeonTraps\Trap\Prefab\Pf_Trap_Needle.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Stone.FBX
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Stone.FBX
+    projectPath: Assets\DungeonTraps\Trap\Stone.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Stone.FBX.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Stone.FBX.meta
+    projectPath: Assets\DungeonTraps\Trap\Stone.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Trap_Cutter.FBX
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Trap_Cutter.FBX
+    projectPath: Assets\DungeonTraps\Trap\Trap_Cutter.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Trap_Cutter.FBX.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Trap_Cutter.FBX.meta
+    projectPath: Assets\DungeonTraps\Trap\Trap_Cutter.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Trap_Needle.FBX
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Trap_Needle.FBX
+    projectPath: Assets\DungeonTraps\Trap\Trap_Needle.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\DungeonTraps\Trap\Trap_Needle.FBX.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\DungeonTraps\Trap\Trap_Needle.FBX.meta
+    projectPath: Assets\DungeonTraps\Trap\Trap_Needle.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Ground Material.mat
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Materials\Ground
+      Material.mat
+    projectPath: Assets\Materials\Ground Material.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Materials\Wall Material.mat
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Materials\Wall
+      Material.mat
+    projectPath: Assets\Materials\Wall Material.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefab\Drop Cube.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\Drop
+      Cube.prefab
+    projectPath: Assets\Prefab\Drop Cube.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefab\Obstacle.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\Obstacle.prefab
+    projectPath: Assets\Prefab\Obstacle.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefab\Player.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\Player.prefab
+    projectPath: Assets\Prefab\Player.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefab\Roller.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\Roller.prefab
+    projectPath: Assets\Prefab\Roller.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefab\Spinner.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\Spinner.prefab
+    projectPath: Assets\Prefab\Spinner.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Game Over Screen.unity
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Game
+      Over Screen.unity
+    projectPath: Assets\Scenes\Game Over Screen.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Game Over Screen.unity.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Game
+      Over Screen.unity.meta
+    projectPath: Assets\Scenes\Game Over Screen.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Level1.unity
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Level1.unity
+    projectPath: Assets\Scenes\Level1.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Level2.unity
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Level2.unity
+    projectPath: Assets\Scenes\Level2.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Level3.unity
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Level3.unity
+    projectPath: Assets\Scenes\Level3.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Main Menu Screen.unity
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Main
+      Menu Screen.unity
+    projectPath: Assets\Scenes\Main Menu Screen.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Main Menu Screen.unity.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Main
+      Menu Screen.unity.meta
+    projectPath: Assets\Scenes\Main Menu Screen.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Win Screen.unity
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Win
+      Screen.unity
+    projectPath: Assets\Scenes\Win Screen.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Win Screen.unity.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Win
+      Screen.unity.meta
+    projectPath: Assets\Scenes\Win Screen.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Music.cs
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scripts\Music.cs
+    projectPath: Assets\Scripts\Music.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Music.cs.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scripts\Music.cs.meta
+    projectPath: Assets\Scripts\Music.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\ObjectHit.cs
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scripts\ObjectHit.cs
+    projectPath: Assets\Scripts\ObjectHit.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\SceneLoader.cs
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scripts\SceneLoader.cs
+    projectPath: Assets\Scripts\SceneLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SceneLoader.cs.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scripts\SceneLoader.cs.meta
+    projectPath: Assets\Scripts\SceneLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Sounds.meta
+    projectPath: Assets\Sounds.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\awesomeness.ogg
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Sounds\awesomeness.ogg
+    projectPath: Assets\Sounds\awesomeness.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\awesomeness.ogg.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Sounds\awesomeness.ogg.meta
+    projectPath: Assets\Sounds\awesomeness.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\impactsplat02.ogg
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Sounds\impactsplat02.ogg
+    projectPath: Assets\Sounds\impactsplat02.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\impactsplat02.ogg.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Sounds\impactsplat02.ogg.meta
+    projectPath: Assets\Sounds\impactsplat02.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\SFX - Success.ogg
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Sounds\SFX
+      - Success.ogg
+    projectPath: Assets\Sounds\SFX - Success.ogg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\SFX - Success.ogg.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Sounds\SFX
+      - Success.ogg.meta
+    projectPath: Assets\Sounds\SFX - Success.ogg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\22\228de8038437b6ae3541457857ad6c63
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\Artifacts\22\228de8038437b6ae3541457857ad6c63
+    projectPath: Library\Artifacts\22\228de8038437b6ae3541457857ad6c63
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -31,6 +806,18 @@ MonoBehaviour:
   - path: Library\CurrentMaximizeLayout.dwlt
     fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\expandedItems
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\expandedItems
+    projectPath: Library\expandedItems
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -58,21 +845,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageManager\ProjectCache
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\PackageManager\ProjectCache
-    projectPath: Library\PackageManager\ProjectCache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\PackageManager\ProjectCache.md5
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\PackageManager\ProjectCache.md5
-    projectPath: Library\PackageManager\ProjectCache.md5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -82,9 +863,63 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

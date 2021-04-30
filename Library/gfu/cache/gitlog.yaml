@@ -13,9 +13,177 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-04-23T09:33:30.270+01:00
-  initializedAtString: 2021-04-23T09:33:30.270+01:00
+  lastUpdatedAtString: 2021-04-30T18:35:01.926+01:00
+  initializedAtString: 2021-04-30T16:42:35.857+01:00
   log:
+  - commitID: b13b301464542d03af88a6ab036c97225dc0adab
+    mergeA: 
+    mergeB: 
+    authorName: Gustavo Kemper Weber
+    authorEmail: g.kemperweber@gmail.com
+    commitEmail: g.kemperweber@gmail.com
+    commitName: Gustavo Kemper Weber
+    summary: second commit
+    description: adding level and core mechanics
+    timeString: 2021-04-30T15:04:14.000+01:00
+    commitTimeString: 2021-04-30T15:04:14.000+01:00
+    changes:
+    - path: Assets\Prefab\Player.prefab
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\Player.prefab
+      projectPath: Assets\Prefab\Player.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Level1.unity
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Level1.unity
+      projectPath: Assets\Scenes\Level1.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Level1.unity.meta
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Level1.unity.meta
+      projectPath: Assets\Scenes\Level1.unity.meta
+      originalPath: Assets\Scenes\SampleScene.unity.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scenes\Level2.unity
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Level2.unity
+      projectPath: Assets\Scenes\Level2.unity
+      originalPath: Assets\Scenes\SampleScene.unity
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scenes\Level2.unity.meta
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Level2.unity.meta
+      projectPath: Assets\Scenes\Level2.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Level3.unity
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Level3.unity
+      projectPath: Assets\Scenes\Level3.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\Level3.unity.meta
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Level3.unity.meta
+      projectPath: Assets\Scenes\Level3.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Dropper.cs
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scripts\Dropper.cs
+      projectPath: Assets\Scripts\Dropper.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Mover.cs
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scripts\Mover.cs
+      projectPath: Assets\Scripts\Mover.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\ObjectHit.cs
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scripts\ObjectHit.cs
+      projectPath: Assets\Scripts\ObjectHit.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Scorer.cs
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scripts\Scorer.cs
+      projectPath: Assets\Scripts\Scorer.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Scripts\Scorer.cs.meta
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scripts\Scorer.cs.meta
+      projectPath: Assets\Scripts\Scorer.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 4094dda41bf138d2204dc66ced1da1cc0e78ce83
+    mergeA: 
+    mergeB: 
+    authorName: Gustavo Kemper Weber
+    authorEmail: g.kemperweber@gmail.com
+    commitEmail: g.kemperweber@gmail.com
+    commitName: Gustavo Kemper Weber
+    summary: add github for Unity plugin
+    description: 
+    timeString: 2021-04-23T09:35:26.000+01:00
+    commitTimeString: 2021-04-23T09:35:26.000+01:00
+    changes:
+    - path: Library\Artifacts\c8\c8ab31b584f6a9ecc0d93ee5e83dfe99
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\Artifacts\c8\c8ab31b584f6a9ecc0d93ee5e83dfe99
+      projectPath: Library\Artifacts\c8\c8ab31b584f6a9ecc0d93ee5e83dfe99
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PackageManager\ProjectCache
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\PackageManager\ProjectCache
+      projectPath: Library\PackageManager\ProjectCache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\PackageManager\ProjectCache.md5
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\PackageManager\ProjectCache.md5
+      projectPath: Library\PackageManager\ProjectCache.md5
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SceneVisibilityState.asset
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: edef41f9bf8b5d871f2659d3106d3b0915c7d2c7
     mergeA: 
     mergeB: 

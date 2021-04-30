@@ -1,17 +1,15 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class ObjectHit : MonoBehaviour
 {
     //parameters
     [SerializeField] float levelLoadDelay = 1f;
-  //  [SerializeField] AudioClip deathSFX;
-  //  [SerializeField] AudioClip SuccessSFX;
+    [SerializeField] AudioClip deathSFX;
+    [SerializeField] AudioClip SuccessSFX;
 
     //cache
-   // private AudioSource playerSFX;
+    private AudioSource playerSFX;
 
     //state
     bool isTransitioning = false;
@@ -19,17 +17,18 @@ public class ObjectHit : MonoBehaviour
     private void Start()
     {
         //component reference
-       // playerSFX = GetComponent<AudioSource>();
+         playerSFX = GetComponent<AudioSource>();
     }
 
     private void OnCollisionEnter(Collision other)
     { 
+        
+
         if(isTransitioning) { return; }
 
         switch (other.gameObject.tag) // manage the collisions of different objects that the player can collide with
         {
             case "Friendly":
-                Debug.Log("This is a friend");
                 break;
             case "Finish":
                 StartSuccessSequence();
@@ -42,19 +41,19 @@ public class ObjectHit : MonoBehaviour
     void StartDeathSequence()
     {
         isTransitioning = true;
-       // playerSFX.Stop();
+        playerSFX.Stop();
         GetComponent<Mover>().enabled = false;
         Invoke("ReloadLevel", levelLoadDelay);
-       // playerSFX.PlayOneShot(deathSFX);
+        playerSFX.PlayOneShot(deathSFX);
     }
 
     void StartSuccessSequence()
     {
         isTransitioning = true;
-       // playerSFX.Stop();
+        playerSFX.Stop();
         GetComponent<Mover>().enabled = false;
         Invoke("LoadNextLevel", levelLoadDelay);
-       // playerSFX.PlayOneShot(SuccessSFX);
+        playerSFX.PlayOneShot(SuccessSFX);
     }
 
     private void LoadNextLevel()
