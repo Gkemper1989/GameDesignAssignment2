@@ -385,7 +385,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e518720ddb23bb94da9ea5e695200b70, type: 2}
+  - {fileID: 2100000, guid: 0877cb93d382f944e8dd03a34a095c1d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1337,7 +1337,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.66386443, y: 0.03449468, z: -0.030679222, w: 0.74642676}
+  m_LocalRotation: {x: 0.65599173, y: 0.042964324, z: -0.03744851, w: 0.7526131}
   m_LocalPosition: {x: -0.4002399, y: 15.037913, z: -17.33}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -1887,7 +1887,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1097958000}
-  m_LocalRotation: {x: 0.66386443, y: 0.03449468, z: -0.030679222, w: 0.74642676}
+  m_LocalRotation: {x: 0.65599173, y: 0.042964324, z: -0.03744851, w: 0.7526131}
   m_LocalPosition: {x: -0.4002399, y: 15.037913, z: -17.33}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -2308,7 +2308,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e518720ddb23bb94da9ea5e695200b70, type: 2}
+  - {fileID: 2100000, guid: 0877cb93d382f944e8dd03a34a095c1d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2881,17 +2881,17 @@ PrefabInstance:
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.24
+      value: -0.17
       objectReference: {fileID: 0}
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.25
+      value: 0.36
       objectReference: {fileID: 0}
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -15.6
+      value: -15.32
       objectReference: {fileID: 0}
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}

@@ -290,7 +290,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e518720ddb23bb94da9ea5e695200b70, type: 2}
+  - {fileID: 2100000, guid: 0877cb93d382f944e8dd03a34a095c1d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1052,7 +1052,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.43608773, y: -0.20292641, z: 0.10162153, w: 0.8708166}
+  m_LocalRotation: {x: 0.443079, y: -0.21044561, z: 0.10782961, w: 0.8647349}
   m_LocalPosition: {x: -4.28, y: 14.07, z: -18.103128}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -1322,7 +1322,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1097958000}
-  m_LocalRotation: {x: 0.43608773, y: -0.20292641, z: 0.10162153, w: 0.8708166}
+  m_LocalRotation: {x: 0.443079, y: -0.21044561, z: 0.10782961, w: 0.8647349}
   m_LocalPosition: {x: -4.28, y: 14.07, z: -18.103128}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -1913,7 +1913,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e518720ddb23bb94da9ea5e695200b70, type: 2}
+  - {fileID: 2100000, guid: 0877cb93d382f944e8dd03a34a095c1d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2239,12 +2239,12 @@ PrefabInstance:
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -8.83
+      value: -9.27
       objectReference: {fileID: 0}
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
@@ -2254,7 +2254,7 @@ PrefabInstance:
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
@@ -2269,7 +2269,7 @@ PrefabInstance:
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
