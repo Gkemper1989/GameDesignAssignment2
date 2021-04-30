@@ -13,100 +13,46 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-04-30T18:57:51.854+01:00
-  initializedAtString: 2021-04-30T16:36:04.909+01:00
+  lastUpdatedAtString: 2021-04-30T21:00:24.046+01:00
+  initializedAtString: 2021-04-30T20:31:58.721+01:00
   entries:
-  - path: Assets\Ground textures pack.meta
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Ground
-      textures pack.meta
-    projectPath: Assets\Ground textures pack.meta
+  - path: .vs\Run Rat Run\v16\.suo
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\.vs\Run
+      Rat Run\v16\.suo
+    projectPath: .vs\Run Rat Run\v16\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefab\Collectible.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\Collectible.prefab
+    projectPath: Assets\Prefab\Collectible.prefab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Ground textures pack\Grass 06.meta
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Ground
-      textures pack\Grass 06.meta
-    projectPath: Assets\Ground textures pack\Grass 06.meta
+  - path: Assets\Prefab\Collectible.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\Collectible.prefab.meta
+    projectPath: Assets\Prefab\Collectible.prefab.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Ground textures pack\Grass 06\diffuse.tga
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Ground
-      textures pack\Grass 06\diffuse.tga
-    projectPath: Assets\Ground textures pack\Grass 06\diffuse.tga
+  - path: Assets\Prefab\Obstacle.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\Obstacle.prefab
+    projectPath: Assets\Prefab\Obstacle.prefab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Ground textures pack\Grass 06\diffuse.tga.meta
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Ground
-      textures pack\Grass 06\diffuse.tga.meta
-    projectPath: Assets\Ground textures pack\Grass 06\diffuse.tga.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Ground textures pack\Grass 06\Grass pattern 06.mat
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Ground
-      textures pack\Grass 06\Grass pattern 06.mat
-    projectPath: Assets\Ground textures pack\Grass 06\Grass pattern 06.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Ground textures pack\Grass 06\Grass pattern 06.mat.meta
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Ground
-      textures pack\Grass 06\Grass pattern 06.mat.meta
-    projectPath: Assets\Ground textures pack\Grass 06\Grass pattern 06.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Ground textures pack\Grass 06\Materials.meta
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Ground
-      textures pack\Grass 06\Materials.meta
-    projectPath: Assets\Ground textures pack\Grass 06\Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Ground textures pack\Grass 06\Materials\diffuse.mat
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Ground
-      textures pack\Grass 06\Materials\diffuse.mat
-    projectPath: Assets\Ground textures pack\Grass 06\Materials\diffuse.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Ground textures pack\Grass 06\Materials\diffuse.mat.meta
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Ground
-      textures pack\Grass 06\Materials\diffuse.mat.meta
-    projectPath: Assets\Ground textures pack\Grass 06\Materials\diffuse.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Ground textures pack\Grass 06\normal.tga
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Ground
-      textures pack\Grass 06\normal.tga
-    projectPath: Assets\Ground textures pack\Grass 06\normal.tga
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Ground textures pack\Grass 06\normal.tga.meta
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Ground
-      textures pack\Grass 06\normal.tga.meta
-    projectPath: Assets\Ground textures pack\Grass 06\normal.tga.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Ground textures pack\Grass 06\preview.jpg
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Ground
-      textures pack\Grass 06\preview.jpg
-    projectPath: Assets\Ground textures pack\Grass 06\preview.jpg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Ground textures pack\Grass 06\preview.jpg.meta
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Ground
-      textures pack\Grass 06\preview.jpg.meta
-    projectPath: Assets\Ground textures pack\Grass 06\preview.jpg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Prefab\Player.prefab
     fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\Player.prefab
     projectPath: Assets\Prefab\Player.prefab
@@ -131,24 +77,44 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\VoxelArt.meta
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\VoxelArt.meta
-    projectPath: Assets\VoxelArt.meta
+  - path: Assets\Scenes\Main Menu Screen.unity
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Main
+      Menu Screen.unity
+    projectPath: Assets\Scenes\Main Menu Screen.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\VoxelArt\mouse1.1.fbx
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\VoxelArt\mouse1.1.fbx
-    projectPath: Assets\VoxelArt\mouse1.1.fbx
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Win Screen.unity
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Win
+      Screen.unity
+    projectPath: Assets\Scenes\Win Screen.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\VoxelArt\mouse1.1.fbx.meta
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\VoxelArt\mouse1.1.fbx.meta
-    projectPath: Assets\VoxelArt\mouse1.1.fbx.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Mover.cs
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scripts\Mover.cs
+    projectPath: Assets\Scripts\Mover.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\ObjectHit.cs
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scripts\ObjectHit.cs
+    projectPath: Assets\Scripts\ObjectHit.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\expandedItems
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -185,6 +151,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
@@ -194,6 +172,19 @@ MonoBehaviour:
   - path: Library\SourceAssetDB
     fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Run Rat Run.sln
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Run Rat
+      Run.sln
+    projectPath: Run Rat Run.sln
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

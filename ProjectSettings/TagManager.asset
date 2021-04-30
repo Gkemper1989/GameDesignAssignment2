@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Hit
   - Friendly
+  - Cheese
   layers:
   - Default
   - TransparentFX

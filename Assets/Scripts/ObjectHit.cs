@@ -33,11 +33,15 @@ public class ObjectHit : MonoBehaviour
             case "Finish":
                 StartSuccessSequence();
                 break;
+            case "Cheese":
+                Destroy(other.gameObject);
+                break;
             default:
                 StartDeathSequence();
                 break;
         }
     }
+
     void StartDeathSequence()
     {
         isTransitioning = true;

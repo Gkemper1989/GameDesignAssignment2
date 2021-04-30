@@ -312,6 +312,86 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1 &360857568
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 360857569}
+  - component: {fileID: 360857571}
+  - component: {fileID: 360857570}
+  m_Layer: 5
+  m_Name: Instructions
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &360857569
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 360857568}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1214116824}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 26, y: -405}
+  m_SizeDelta: {x: 974.5671, y: 159.4522}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &360857570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 360857568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 40
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Use the arrow keys to move around, steal the cheese, avoid the traps and
+    reach the other nest.
+--- !u!222 &360857571
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 360857568}
+  m_CullTransparentMesh: 1
 --- !u!1 &576032225
 GameObject:
   m_ObjectHideFlags: 0
@@ -1008,6 +1088,7 @@ RectTransform:
   - {fileID: 1370708282}
   - {fileID: 1690006963}
   - {fileID: 1510794969}
+  - {fileID: 360857569}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1393,7 +1474,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1679,7 +1760,7 @@ PrefabInstance:
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.96861315
+      value: 0.41078112
       objectReference: {fileID: 0}
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
@@ -1689,7 +1770,7 @@ PrefabInstance:
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.24857314
+      value: -0.91173404
       objectReference: {fileID: 0}
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
@@ -1704,7 +1785,7 @@ PrefabInstance:
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -28.786
+      value: -131.492
       objectReference: {fileID: 0}
     - target: {fileID: 5907992297616538565, guid: cfde6536711afb745b96561d7af21f1c,
         type: 3}

@@ -6,6 +6,9 @@ public class Mover : MonoBehaviour
 {
     //parameters
     [SerializeField] float moveSpeed = 10f;
+    [SerializeField] float turnSpeed = 150.0f;
+    private float horizontalInput;
+    private float forwardInput;
 
     //cache
     private Rigidbody playerRB;
@@ -13,15 +16,17 @@ public class Mover : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //input from the players
+        horizontalInput = Input.GetAxis("Horizontal");
+        forwardInput = Input.GetAxis("Vertical");
         playerRB = GetComponent<Rigidbody>();
         MovePlayer();
     }
 
     void MovePlayer()
     {
-        float xValue = Input.GetAxis("Horizontal") * Time.deltaTime * moveSpeed;
-        float zValue = Input.GetAxis("Vertical") * Time.deltaTime * moveSpeed;
-
-        transform.Translate(xValue, 0, zValue);
+        //moving and turning the vehicle
+        transform.Translate(Vector3.forward * Time.deltaTime * moveSpeed * forwardInput);
+        transform.Rotate(Vector3.up, turnSpeed * horizontalInput * Time.deltaTime);
     }
 }
