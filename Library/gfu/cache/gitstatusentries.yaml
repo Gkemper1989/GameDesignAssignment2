@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-04-30T21:00:24.046+01:00
-  initializedAtString: 2021-04-30T20:31:58.721+01:00
+  lastUpdatedAtString: 2021-05-02T14:38:50.968+01:00
+  initializedAtString: 2021-05-02T12:43:27.403+01:00
   entries:
   - path: .vs\Run Rat Run\v16\.suo
     fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\.vs\Run
@@ -23,39 +23,58 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Prefab\Collectible.prefab
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\Collectible.prefab
-    projectPath: Assets\Prefab\Collectible.prefab
+  - path: Assets\2D Pixel Item Pack.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\2D
+      Pixel Item Pack.meta
+    projectPath: Assets\2D Pixel Item Pack.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefab\Collectible.prefab.meta
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\Collectible.prefab.meta
-    projectPath: Assets\Prefab\Collectible.prefab.meta
+  - path: Assets\2D Pixel Item Pack\Heavy Outline.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\2D
+      Pixel Item Pack\Heavy Outline.meta
+    projectPath: Assets\2D Pixel Item Pack\Heavy Outline.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefab\Obstacle.prefab
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\Obstacle.prefab
-    projectPath: Assets\Prefab\Obstacle.prefab
+  - path: Assets\2D Pixel Item Pack\Heavy Outline\S_ItemHeavyOutline_HeartGold_00.png
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\2D
+      Pixel Item Pack\Heavy Outline\S_ItemHeavyOutline_HeartGold_00.png
+    projectPath: Assets\2D Pixel Item Pack\Heavy Outline\S_ItemHeavyOutline_HeartGold_00.png
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\2D Pixel Item Pack\Heavy Outline\S_ItemHeavyOutline_HeartGold_00.png.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\2D
+      Pixel Item Pack\Heavy Outline\S_ItemHeavyOutline_HeartGold_00.png.meta
+    projectPath: Assets\2D Pixel Item Pack\Heavy Outline\S_ItemHeavyOutline_HeartGold_00.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Prefab\Player.prefab
     fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\Player.prefab
     projectPath: Assets\Prefab\Player.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefab\UI lifes.prefab
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\UI
+      lifes.prefab
+    projectPath: Assets\Prefab\UI lifes.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefab\UI lifes.prefab.meta
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Prefab\UI
+      lifes.prefab.meta
+    projectPath: Assets\Prefab\UI lifes.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Game Over Screen.unity
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scenes\Game
+      Over Screen.unity
+    projectPath: Assets\Scenes\Game Over Screen.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -91,12 +110,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\Mover.cs
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scripts\Mover.cs
-    projectPath: Assets\Scripts\Mover.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets\Scripts\ObjectHit.cs
     fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Assets\Scripts\ObjectHit.cs
     projectPath: Assets\Scripts\ObjectHit.cs
@@ -106,6 +119,12 @@ MonoBehaviour:
   - path: Library\CurrentLayout-default.dwlt
     fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -172,19 +191,6 @@ MonoBehaviour:
   - path: Library\SourceAssetDB
     fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\TagManager.asset
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Run Rat Run.sln
-    fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Run Rat
-      Run.sln
-    projectPath: Run Rat Run.sln
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

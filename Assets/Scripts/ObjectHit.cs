@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class ObjectHit : MonoBehaviour
 {
@@ -7,6 +8,8 @@ public class ObjectHit : MonoBehaviour
     [SerializeField] float levelLoadDelay = 1f;
     [SerializeField] AudioClip deathSFX;
     [SerializeField] AudioClip SuccessSFX;
+    [SerializeField] int lifes = 3;
+    [SerializeField] Text lifesText;
 
     //cache
     private AudioSource playerSFX;
@@ -17,14 +20,13 @@ public class ObjectHit : MonoBehaviour
     private void Start()
     {
         //component reference
-         playerSFX = GetComponent<AudioSource>();
+        playerSFX = GetComponent<AudioSource>();
+        lifesText.text = lifes.ToString();
     }
 
     private void OnCollisionEnter(Collision other)
-    { 
-        
-
-        if(isTransitioning) { return; }
+    {
+        if (isTransitioning) { return; }
 
         switch (other.gameObject.tag) // manage the collisions of different objects that the player can collide with
         {
@@ -37,6 +39,8 @@ public class ObjectHit : MonoBehaviour
                 Destroy(other.gameObject);
                 break;
             default:
+                lifes--;
+                lifesText.text = lifes.ToString();
                 StartDeathSequence();
                 break;
         }
@@ -44,18 +48,25 @@ public class ObjectHit : MonoBehaviour
 
     void StartDeathSequence()
     {
-        isTransitioning = true;
-        playerSFX.Stop();
-        GetComponent<Mover>().enabled = false;
-        Invoke("ReloadLevel", levelLoadDelay);
-        playerSFX.PlayOneShot(deathSFX);
+        if (lifes >= 1)
+        {
+            playerSFX.Stop();
+            playerSFX.PlayOneShot(deathSFX);
+        }
+        else
+        {
+            isTransitioning = false;
+            playerSFX.Stop();
+            GetComponent<Mover>().enabled = false;
+            Invoke("GameOverProcess", levelLoadDelay);
+            playerSFX.PlayOneShot(deathSFX);
+        }
     }
 
     void StartSuccessSequence()
     {
         isTransitioning = true;
         playerSFX.Stop();
-        GetComponent<Mover>().enabled = false;
         Invoke("LoadNextLevel", levelLoadDelay);
         playerSFX.PlayOneShot(SuccessSFX);
     }
@@ -71,9 +82,8 @@ public class ObjectHit : MonoBehaviour
         SceneManager.LoadScene(nextSceneIndex);
     }
 
-    private void ReloadLevel()
+    private void GameOverProcess()
     {
-        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex; //variable to store the index of the current scene(level)
-        SceneManager.LoadScene(currentSceneIndex); // load the current scene(level)
+        SceneManager.LoadScene(5);
     }
 }

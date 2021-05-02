@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: GitHub
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -102,7 +102,7 @@ MonoBehaviour:
   m_MinSize: {x: 534, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 115
+  controlID: 216
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -175,7 +175,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 17
+  controlID: 79
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -280,7 +280,7 @@ MonoBehaviour:
     width: 377
     height: 926
   m_ViewDataDictionary: {fileID: 0}
-  progressMessageClearTime: 8589.60852
+  progressMessageClearTime: -1
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
@@ -388,6 +388,7 @@ MonoBehaviour:
         - Library
         - Library\gfu
         - Library\gfu\cache
+        - Library\ShaderCache
         values:
         - path: Library
           label: Library
@@ -428,6 +429,24 @@ MonoBehaviour:
         - path: Library\gfu\cache
           label: cache
           level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library\ShaderCache
+          label: ShaderCache
+          level: 1
           isFolder: 1
           isContainer: 0
           isCollapsed: 0
@@ -489,6 +508,24 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
+      - path: Library\EditorUserBuildSettings.asset
+        label: EditorUserBuildSettings.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\EditorUserBuildSettings.asset
+          fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\EditorUserBuildSettings.asset
+          projectPath: Library\EditorUserBuildSettings.asset
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Library\gfu
         label: gfu
         level: 1
@@ -543,6 +580,24 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
+      - path: Library\gfu\cache\gitstatusentries.yaml
+        label: gitstatusentries.yaml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\gfu\cache\gitstatusentries.yaml
+          fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\gfu\cache\gitstatusentries.yaml
+          projectPath: Library\gfu\cache\gitstatusentries.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Library\gfu\cache\gittrackingstatus.yaml
         label: gittrackingstatus.yaml
         level: 3
@@ -558,6 +613,96 @@ MonoBehaviour:
           path: Library\gfu\cache\gittrackingstatus.yaml
           fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\gfu\cache\gittrackingstatus.yaml
           projectPath: Library\gfu\cache\gittrackingstatus.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\gfu\cache\repoinfo.yaml
+        label: repoinfo.yaml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\gfu\cache\repoinfo.yaml
+          fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\gfu\cache\repoinfo.yaml
+          projectPath: Library\gfu\cache\repoinfo.yaml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\SceneVisibilityState.asset
+        label: SceneVisibilityState.asset
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\SceneVisibilityState.asset
+          fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\SceneVisibilityState.asset
+          projectPath: Library\SceneVisibilityState.asset
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\ShaderCache
+        label: ShaderCache
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library\ShaderCache\EditorEncounteredVariants
+        label: EditorEncounteredVariants
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\ShaderCache\EditorEncounteredVariants
+          fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\ShaderCache\EditorEncounteredVariants
+          projectPath: Library\ShaderCache\EditorEncounteredVariants
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library\SourceAssetDB
+        label: SourceAssetDB
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library\SourceAssetDB
+          fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\SourceAssetDB
+          projectPath: Library\SourceAssetDB
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
@@ -581,9 +726,21 @@ MonoBehaviour:
           indexStatus: 0
           workTreeStatus: 0
     gitStatusEntries:
+    - path: Library\EditorUserBuildSettings.asset
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\EditorUserBuildSettings.asset
+      projectPath: Library\EditorUserBuildSettings.asset
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Library\gfu\cache\gitlog.yaml
       fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\gfu\cache\gitlog.yaml
       projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
@@ -593,15 +750,39 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    changedFilesText: 2 changed files
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\SceneVisibilityState.asset
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\gusta\Desktop\College\Game Design\CA2\Run Rat Run\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    changedFilesText: 8 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2021-04-30T18:58:54.474+01:00
+      updatedTimeString: 2021-04-30T21:01:25.500+01:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2021-04-30T18:58:35.085+01:00
+      updatedTimeString: 2021-04-30T21:03:24.069+01:00
       cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 2021-04-30T18:57:09.115+01:00
+      updatedTimeString: 2021-04-30T20:52:16.794+01:00
       cacheType: 7
   historyView:
     currentLogHasUpdate: 0
@@ -10858,13 +11039,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the GameDesign-CA2 remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2021-04-30T18:58:54.474+01:00
+    updatedTimeString: 2021-04-30T21:01:25.500+01:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2021-04-30T18:58:54.303+01:00
+    updatedTimeString: 2021-04-30T21:03:24.082+01:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2021-04-30T18:58:35.085+01:00
+    updatedTimeString: 2021-04-30T21:03:24.069+01:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -10882,8 +11063,8 @@ MonoBehaviour:
     m_Text: Fetch
     m_Image: {fileID: 0}
     m_Tooltip: 
-  repositoryProgressValue: 1
-  repositoryProgressMessage: Loading the history...
+  repositoryProgressValue: 0
+  repositoryProgressMessage: 
   appManagerProgressValue: 1
   appManagerProgressMessage: Initialized
   connections: []
@@ -10980,7 +11161,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 7e3d0000
     m_LastClickedID: 15742
-    m_ExpandedIDs: 00000000083d0000
+    m_ExpandedIDs: 00000000703d0000723d0000743d0000763d0000783d00007a3d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -11008,18 +11189,18 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000083d0000b69d0000c0b00000eac700003eca0000
+    m_ExpandedIDs: 7cb7ffffffffffff00000000703d0000723d0000743d0000763d0000783d0000d23d0000d43d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: mouse1.1
-      m_OriginalName: mouse1.1
+      m_Name: Cheese
+      m_OriginalName: Cheese
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 64070
+      m_UserData: 15828
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -11191,9 +11372,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.24000001, y: 0.25, z: -15.6}
+    m_Target: {x: 3.1404457, y: 6.8550134, z: -21.348757}
     speed: 2
-    m_Value: {x: -0.24000001, y: 0.25, z: -15.6}
+    m_Value: {x: 3.1404457, y: 6.8550134, z: -21.348757}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -11240,13 +11421,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.20613126, y: 0.7102799, z: -0.23173212, w: -0.6320774}
+    m_Target: {x: -0.27693623, y: -0.040987328, z: 0.011486245, w: -0.9600911}
     speed: 2
-    m_Value: {x: -0.20610969, y: 0.71020555, z: -0.23170786, w: -0.63201123}
+    m_Value: {x: -0.27687982, y: -0.042421464, z: 0.011899967, w: -0.9598939}
   m_Size:
-    m_Target: 7.0609074
+    m_Target: 15.223301
     speed: 2
-    m_Value: 7.0609074
+    m_Value: 14.567752
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -11300,9 +11481,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 963d0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: f07cfeff4683fefff0a6feff28a7feff1aa8feff6aa9feffdeb0feff9ab2feff74c8feff22d4feff78d4feff48d6feff76e1feff68eafeffa019ffffaa19ffffb419ffffc019ffffca19ffffd619ffff7e20ffff0821ffff8421ffff0e22ffff5022fffffc22fffff224ffff8026ffff5827ffffae28ffffcc2cffff3c31ffffb231ffffce92ffffb495fffffe95ffff1498ffff029cffff0ac0ffff4ac0ffff74ceffff62cfffffcad7ffffd0ecffff4ef8ffffb2f9ffff30fbfffffa400000564800005c4b0000345c0000905c0000929b0000a49b0000dc9b0000aeb600004ab80000eeb90000c2bc000026be000046bf0000e4bf00002ed0000046d0000036d500003ad500003cd7000044d7000084da0000b8da0000b6e10000cee100007cef000060f1000052f50000faf60000
+      m_ExpandedIDs: 6c6bffff8a6bffff866cffff486dffff706effff5c6fffff3e70ffff4670ffff7073ffff2e8affffac8cffffba9fffffc6ccffff16cdffffa4e4ffff04f4ffff50fbffffd03e0000063f0000da400000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -11318,7 +11499,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 9}
+        m_ClientGUIView: {fileID: 10}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
